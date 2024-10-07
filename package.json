@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cherrysharma7/Training/issues"
   },
-  "homepage": "https://github.com/cherrysharma7/Training#readme"
+  "homepage": "https://github.com/cherrysharma7/Training#readme",
+  "dependencies": {
+    "mocha": "^10.7.3"
+  }
 }
